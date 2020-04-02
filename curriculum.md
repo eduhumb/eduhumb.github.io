@@ -14,8 +14,15 @@ permalink: /curriculum/
 <a name="positions"/>
 ## Positions
 
-Machine Learning Engineer Intern<br>
-<b><a href='https://www.aquila.com.br/language/en/'>Aquila</a><b> | January 2019 - Present
+Data Scientist Consultant<br>
+<b><a href='https://www.aquila.com.br/language/en/'>Aquila</a><b> | April 2020 - Present
+
+- Data Engineering related tasks, such as pipeline  building using Google Cloud Platform (batch and streaming), model implementation, maintainability and code quality. 
+
+- Development of a supply chain project with focus on demand planning for one of the biggest textile factories in Brazil
+
+Data Scientist Intern<br>
+<b><a href='https://www.aquila.com.br/language/en/'>Aquila</a><b> | January 2019 - March 2020
 
 - Research and development of Machine Learning algorithms centered around demand prediction and management. The main projects deal with sales improvement, customer segmentation, results monitoring and scenario planning.
 - Google Cloud principal developer, responsible for managing and building data pipelines.
