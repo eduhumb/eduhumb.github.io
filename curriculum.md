@@ -14,7 +14,7 @@ permalink: /curriculum/
 <a name="positions"/>
 ## Positions
 
-Data Scientist Consultant<br>
+Machine Learning Engineer Intern<br>
 <b><a href='https://www.aquila.com.br/language/en/'>Aquila</a><b> | April 2020 - Present
 
 - Data Engineering related tasks, such as pipeline  building using Google Cloud Platform (batch and streaming), model implementation, maintainability and code quality. 
