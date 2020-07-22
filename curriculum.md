@@ -44,16 +44,20 @@ Software Enginner Intern<br>
 | ------------------|:-------------:|
 | Python            | Problem Solving     |     
 | Ruby              | Communication       | 
-| JavaScript        | Teamwork         |
-| Machine Learning  | Proactive           |
-| Statistics        | Oratory             |
-| Numpy             | Challenge Motivated |
-| Pandas            | Project Management  |
-| Jupyter           | Critical Observation|    
-| Node              | Adaptability |
-| HTML              | Self Taught |
-| CSS               | Resilient |
-| SQL               | Joyful Person |
+| Scala             | Teamwork            |
+| Spark             | Proactive           |
+| PySpark           | Oratory             |
+| SQL               | Challenge Motivated |
+| JavaScript        | Project Management  |
+| Machine Learning  | Critical Observation|
+| Statistics        | Adaptability        |
+| Numpy             | Self Taught         |
+| Pandas            | Resilient           |
+| Jupyter           | Joyful Person       |    
+| Node              ||
+| HTML              ||
+| CSS               ||
+| SQL               ||
 | Ruby on Rails ||
 | Express ||
 | Git ||
