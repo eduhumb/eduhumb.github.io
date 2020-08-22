@@ -9,7 +9,7 @@ permalink: /curriculum/
 [Positions](#positions)  
 [Skills](#skills) 
 [Languages](#languages)  
-[Bootcamps](#bootcamp)
+[Bootcamps](#bootcamps)
 [Education](#education)    
 [Voluteer Activities](#voluteer)
 
