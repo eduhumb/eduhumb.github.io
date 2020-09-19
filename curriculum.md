@@ -25,7 +25,7 @@ Love learning new tools every day. If I do not know something, I will learn it.
 ## Positions
 
 Machine Learning Engineer<br>
-<b><a href='https://www.kunumi.com/english'>Kunumi</a><b> | September 2019 - Present
+<b><a href='https://www.kunumi.com/english'>Kunumi</a><b> | September 2020 - Present
 
 Machine Learning Engineer Intern<br>
 <b><a href='https://www.aquila.com.br/language/en/'>Aquila</a><b> | July 2019 - May 2020
