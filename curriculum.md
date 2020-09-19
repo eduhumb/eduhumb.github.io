@@ -16,13 +16,16 @@ permalink: /curriculum/
 <a name="who"/>
 ## Who is Eduardo?
 
-Software Engineer with data engineering experience. Worked in a strong management consulting firm in Brazil across different
+Software Engineer and Machine Learning Engineer. Worked in a strong management consulting firm in Brazil across different
 areas, from software engineering to data related tasks. Got experience building monolithic applications, building and
 maintaining data pipelines , analysing high-volume data, requirements gathering and cloud tools (Google Cloud Platform, GIT).
 Love learning new tools every day. If I do not know something, I will learn it.
 
 <a name="positions"/>
 ## Positions
+
+Machine Learning Engineer<br>
+<b><a href='https://www.kunumi.com/english'>Kunumi</a><b> | September 2019 - Present
 
 Machine Learning Engineer Intern<br>
 <b><a href='https://www.aquila.com.br/language/en/'>Aquila</a><b> | July 2019 - May 2020
