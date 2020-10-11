@@ -11,7 +11,7 @@ motivated by the work I do and its results for society.
 
 One of my main characteristics is self management the setting objectives for short, mid and long-term.
 
-I tried making two startup's, a FinTech and a SaaS deliverying platform. Although they did not succeed, I am still peering with my buddies to build something that will shake the world.
+I tried making two startup's, a FinTech and a SaaS delivery platform. Although they did not succeed, I am still peering with my buddies to build something that will shake the world.
 
 ⋆ I support good software practices and I'm an open-source enthusiast 
 
